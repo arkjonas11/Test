@@ -1,0 +1,51 @@
+#ButLogin{
+    position: absolute;
+    background-color: blue;
+    width: 140px;
+    height: 25px;
+    text-align: center;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+#ButRegist{
+    position: absolute;
+    background-color: white;
+    width: 140px;
+    height: 25px;
+    left: 150px;
+    text-align: center;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    
+}
+#topBut{
+    background-color: transparent;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    height: 40px;
+    top: 0px;
+}
+
+#Ofertas{
+    background-color: blue;
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    font-size: 24px;
+    left: 700px;
+    top: 420px;   
+    
+}
+
+#Cidade{
+        background-color: white;
+        position: absolute;
+        width: 300px;
+        height: 34px;
+        left: 1000px;
+        top: 420px;   
+        font-size: 24px;
+    }

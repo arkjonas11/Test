@@ -1,0 +1,144 @@
+#ButLogin{
+    position: absolute;
+    background-color: rgb(240, 240, 38);
+    width: 140px;
+    height: 25px;
+    text-align: center;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+#ButRegist{
+    position: absolute;
+    background-color: rgb(240, 240, 38);
+    width: 140px;
+    height: 25px;
+    left: 150px;
+    text-align: center;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    
+}
+#topBut{
+    background-color: transparent;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    height: 40px;
+    top: 0px;
+}
+
+#Ofertas{
+    background-color: rgb(240, 240, 38);
+    position: absolute;
+    width: 240px;
+    height: 40px;
+    text-align: center;
+    font-size: 24px;
+    left: 700px;
+    top: 420px;   
+    
+}
+
+#Cidade{
+        background-color: white;
+        position: absolute;
+        width: 300px;
+        height: 40px;
+        left: 940px;
+        top: 420px;   
+        
+    }
+
+    #logo{
+        position: absolute;
+        width: 320px;
+        border-radius: 70px;
+        left: 250px;
+        top: 170px;
+    }
+
+    #CidadeText{
+        position: absolute;
+        left:60px;
+        margin-top: 0px;
+        top: 7px;
+        font-size: 20px;
+    }
+
+    #City1{
+        position: absolute;
+        left: 120px;
+        font-size: 20px;
+        margin-top: 0px;
+        top: 7px;
+        display: none;
+    }
+
+    #City2{
+        position: absolute;
+        left: 120px;
+        font-size: 20px;
+        margin-top: 0px;
+        top: 7px;
+        display: none;
+    }
+
+    #OfertasText{
+        position: absolute;
+        left:70px;
+        margin-top: 0px;
+        top: 7px;
+        font-size: 20px;
+    }
+
+    #CidadeMenu{
+        position: absolute;
+        width: 300px;
+        height: 330px;
+        background-color: white;
+        left: 940px;
+        top: 460px;
+        display: none;
+    }
+
+    #Porto{
+        position: absolute;
+        background-color: white;
+        width: 300px;
+        height: 30px;
+        display: visible;
+    }
+
+    #Lisboa{
+        position: absolute;
+        background-color: white;
+        width: 300px;
+        height: 30px;
+        display: visible;
+        top:30px;
+    }
+
+    #PortoText{
+        position: absolute;
+        left: 130px;
+        margin: 0px;
+        top: 5px;
+        color: blue;
+    }
+
+    #LisboaText{
+        position: absolute;
+        left: 125px;
+        margin: 0px;
+        top: 5px;
+        color: blue;
+    }
+
+
+    #Porto:hover{
+        background-color: #ff6666;
+    }
+    #Lisboa:hover{
+        background-color: #ff6666;
+    }

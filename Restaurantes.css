@@ -1,0 +1,173 @@
+#TopBar{
+    background-color: white;
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-shadow: black 0px 0px 25px ;
+}
+
+#TopBarText{
+    position:absolute;
+    left: 740px;
+    margin-top: 0px;
+    top: 7px;
+    color: black;   
+}
+
+#MiddleBar{
+    background-color: red;
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    top:30px;
+    left: 0px;
+    
+}
+#TopBarLogin{
+    position:absolute;
+    left: 1400px;
+    margin-top: 0px;
+    top: 7px;
+    color: white;   
+}
+
+
+
+#ButLogin{
+    position: absolute;
+    background-color: white;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    left: 1255px;
+}
+
+#IniciarText{
+    position: absolute;
+    margin: 0px;
+    top: 5px;
+    left: 7px;
+}
+
+#ButRegist{
+    position: absolute;
+    background-color: white;
+    width: 140px;
+    height: 30px;
+    left: 1400px;
+    text-align: center;
+}
+
+#RegistarText{
+    position: absolute;
+    margin: 0px;
+    top: 5px;
+    left: 25px;
+}
+
+#Search{
+    position: absolute;
+    background-color: white;
+    width: 800px;
+    height: 80px;
+    top: 70px;
+    left: 430px;
+    border-radius: 15px;
+}
+
+#SeparadorVerOfertas{
+    position: absolute;
+    background-color: rgb(255, 238, 4);
+    width:200px;
+    height: 80px;
+    left: 600px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px; 
+}
+
+#VerOfertasText{
+    position: absolute;
+    left:40px;
+    top: 30px;
+    margin: 0px;
+}
+
+#NomeCidade{
+    position: absolute;
+    left: 265px;
+    margin: 0px;
+    top: 10px;
+}
+
+#TipoDeComida {
+    position: absolute;
+    background-color:white;
+    width: 200px;
+    height: 30px;
+    top: 40px;
+    left: 55px;      
+}
+
+#ComidaText{
+    position: absolute;
+    margin: 0px;
+    left: 50px;
+    top: 5px;
+}
+
+#NomeRestaurante {
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    top: 40px;
+    left: 320px;      
+}
+
+#NomeText{
+    position: absolute;
+    margin: 0px;
+    left: 45px;
+    top: 5px;
+}
+
+#SeparadorRestaurantes{
+    position: absolute;
+    background-color: white;
+    width: 1000px;
+    height: 160px;
+    top:300px;
+    left: 330px;
+}
+
+#Logotipo{
+    position: absolute;
+    background-color: white;
+    width: 160px;
+    height: 160px;
+    border-style: solid;
+    border-color: red;
+}
+
+#Informacoes{
+    position: absolute;
+    background-color: white;
+    width: 540px;
+    height: 160px;
+    left: 160px;
+    border-style: solid;
+    border-color: red;
+}
+
+#Precos{
+    position: absolute;
+    background-color: white;
+    width: 299px;
+    height: 160px;
+    left: 700px;
+    border-style: solid;
+    border-color: red;
+} 
+
